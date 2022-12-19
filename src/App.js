@@ -23,7 +23,7 @@ const App = ()=> {
 
   return (
     <>
-      <div className="pane top-pane">
+      <div className=" pane top-pane">
         <Editor
           langauge="xml"
           nameOfEditor="HTML"
@@ -43,7 +43,7 @@ const App = ()=> {
           onChange={setJs}
         />
       </div>
-      <div>
+      <div className = "pane">
         <iframe
           srcDoc={srcDoc}
           sandbox="allow-scripts"
