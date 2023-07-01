@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/OnlineEditor/static/css/main.792b0489.chunk.css",
+    "main.js": "/OnlineEditor/static/js/main.fa750498.chunk.js",
+    "main.js.map": "/OnlineEditor/static/js/main.fa750498.chunk.js.map",
+    "runtime-main.js": "/OnlineEditor/static/js/runtime-main.7fc36703.js",
+    "runtime-main.js.map": "/OnlineEditor/static/js/runtime-main.7fc36703.js.map",
+    "static/css/2.8e69e9c3.chunk.css": "/OnlineEditor/static/css/2.8e69e9c3.chunk.css",
+    "static/js/2.36d467a3.chunk.js": "/OnlineEditor/static/js/2.36d467a3.chunk.js",
+    "static/js/2.36d467a3.chunk.js.map": "/OnlineEditor/static/js/2.36d467a3.chunk.js.map",
+    "index.html": "/OnlineEditor/index.html",
+    "precache-manifest.1555f2ff41ae694bef2f79a435852598.js": "/OnlineEditor/precache-manifest.1555f2ff41ae694bef2f79a435852598.js",
+    "service-worker.js": "/OnlineEditor/service-worker.js",
+    "static/css/2.8e69e9c3.chunk.css.map": "/OnlineEditor/static/css/2.8e69e9c3.chunk.css.map",
+    "static/css/main.792b0489.chunk.css.map": "/OnlineEditor/static/css/main.792b0489.chunk.css.map",
+    "static/js/2.36d467a3.chunk.js.LICENSE.txt": "/OnlineEditor/static/js/2.36d467a3.chunk.js.LICENSE.txt",
+    "static/media/CSS.png": "/OnlineEditor/static/media/CSS.f0d92a6a.png",
+    "static/media/JS.png": "/OnlineEditor/static/media/JS.88531d84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc36703.js",
+    "static/css/2.8e69e9c3.chunk.css",
+    "static/js/2.36d467a3.chunk.js",
+    "static/css/main.792b0489.chunk.css",
+    "static/js/main.fa750498.chunk.js"
+  ]
+}
